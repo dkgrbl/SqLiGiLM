@@ -1,6 +1,7 @@
 
 
 run-example:
+	mkdir -p output
 	python3 -m examples.run_example_1
 
 
